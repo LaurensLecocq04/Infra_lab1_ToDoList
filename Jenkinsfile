@@ -7,6 +7,6 @@ node {
         }
     }
     stage('Build') {
-        build 'BuildTodoApp'
+        build 'ToDo_APP'
     }
 }
